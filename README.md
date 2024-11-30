@@ -12,18 +12,49 @@ Government of Gujarat
 ## Idea
 
 1. A platform can be included where alumni share their photos, group photos with friends, or other memorable moments. Photos evoke emotions like happiness, which encourages alumni to reconnect with their friends and engage actively on this platform. The platform can send notifications, such as: 'This photo was taken 5 years ago.
+
 2. The platform can allow alumni to add their favorite teachers and professors to enhance interaction, which also boosts involvement. It provides alumni with a meaningful way to reconnect and engage in conversations with their mentors.
+
 3. Job security is an important topic in today's world. A platform can be created that enables users to share job vacancies in their respective fields, with the added feature of direct interaction with the hiring companies. This will help alumni secure jobs more easily and efficiently.
+
 4. The platform can include a reward or points system to encourage engagement. Users can earn points for contributions such as uploading photos, sharing job opportunities, and helping other alumni. Awards can be given to the most active and contributing members, fostering a sense of appreciation and communit.
+
 5. This platform should be introduced during the school journey itself, as it helps build connectivity among alumni and creates a large, supportive network over time.
+
 ## Proposed Solution / Architecture Diagram
 
+https://github.com/user-attachments/assets/23eda178-4425-4d64-bc90-d6180cfdd4d8
 
 ## Use Cases
 
+![Login](https://github.com/user-attachments/assets/de1535c2-b7d7-4aef-b5f1-bedcf3664696)
 
 ## Technology Stack
+1.Frontend: React.js (for building an interactive web interface).
+
+2.Backend: Node.js with Express (for server-side logic and APIs).
+
+3.Database: PostgreSQL (for managing user data, jobs, and image metadata).
+
+4.Cloud Storage: AWS S3 (for storing and retrieving photos).
+
+5.AI/ML Services: AWS Rekognition (for face recognition and tagging).
+
+6.Notification Service: Firebase Cloud Messaging (for sending push notifications).
+
+7.Version Control: Git (for code versioning and collaboration).
+
+8.Testing Tools: Postman or Insomnia (for API testing and debugging).
 
 
 ## Dependencies
 
+1.Face Recognition Implementation: 15 days.
+
+2.Data Collection for Alumni Profiles: 10 days.
+
+3.Photo Sharing Feature Development: 20 days.
+
+4.Job Networking Feature Development: 15 days.
+
+5.Budget: ₹75,000 (to account for AI/ML services and storage costs).
