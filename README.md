@@ -27,7 +27,8 @@ https://github.com/user-attachments/assets/23eda178-4425-4d64-bc90-d6180cfdd4d8
 
 ## Use Cases
 
-![Login](https://github.com/user-attachments/assets/de1535c2-b7d7-4aef-b5f1-bedcf3664696)
+![Login (1)](https://github.com/user-attachments/assets/bd7ef0cc-7329-4779-b2e0-057457d5c5c4)
+
 
 ## Technology Stack
 1.Frontend: React.js (for building an interactive web interface).
