@@ -11,7 +11,11 @@ Government of Gujarat
 
 ## Idea
 
-
+1. A platform can be included where alumni share their photos, group photos with friends, or other memorable moments. Photos evoke emotions like happiness, which encourages alumni to reconnect with their friends and engage actively on this platform. The platform can send notifications, such as: 'This photo was taken 5 years ago.
+2. The platform can allow alumni to add their favorite teachers and professors to enhance interaction, which also boosts involvement. It provides alumni with a meaningful way to reconnect and engage in conversations with their mentors.
+3. Job security is an important topic in today's world. A platform can be created that enables users to share job vacancies in their respective fields, with the added feature of direct interaction with the hiring companies. This will help alumni secure jobs more easily and efficiently.
+4. The platform can include a reward or points system to encourage engagement. Users can earn points for contributions such as uploading photos, sharing job opportunities, and helping other alumni. Awards can be given to the most active and contributing members, fostering a sense of appreciation and communit.
+5. This platform should be introduced during the school journey itself, as it helps build connectivity among alumni and creates a large, supportive network over time.
 ## Proposed Solution / Architecture Diagram
 
 
