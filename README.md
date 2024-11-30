@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 30.11.24
+## Register Number: 24900087
+## Name: A Ahil Santo
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
